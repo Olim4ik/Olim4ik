@@ -9,7 +9,7 @@ I do content on Fullstack Development. I really enjoy learning languages and fra
 * 💻 JS / JQuery
 * 📱 HTML / CSS
 
-### 
+### Additional Info
 - 🔭 I’m currently working on Police Recruitment System 
 - 🌱 I’m currently learning PostgreSQL 
 - 📫 How to reach me: https://t.me/Oakhmadjonov 
