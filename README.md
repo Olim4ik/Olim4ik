@@ -4,8 +4,12 @@
 
 I do content on Fullstack Development. I really enjoy learning languages and frameworks like YII2 and Laravel, as well as working in WordPress.I also enjoy working on JS frameworks and JS in general. 
 
-Skills: PHP / YII2/ JS / JQuery / HTML / CSS
+### Skills and Experience
+* 🐘 PHP / YII2
+* 💻 JS / JQuery
+* 📱 HTML / CSS
 
+### 
 - 🔭 I’m currently working on Police Recruitment System 
 - 🌱 I’m currently learning PostgreSQL 
 - 📫 How to reach me: https://t.me/Oakhmadjonov 
