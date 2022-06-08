@@ -1,5 +1,5 @@
 ### Hi there 👋, Olimjon Akhmadjonov
-#### Fullstack Developer 
+#### Fullstack PHP Developer 
 ![Fullstack Developer ](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg)
 
 I do content on Fullstack Development. I really enjoy learning languages and frameworks like YII2 and Laravel, as well as working in WordPress.I also enjoy working on JS frameworks and JS in general. 
