@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I do content on Fullstack Development. I really enjoy learning languages and frameworks like YII2 and Laravel, as well as working in WordPress.
+I also enjoy working on JS frameworks and JS in general. You can check you my page: 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olim4ik)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Olim4ik/Olim4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
