@@ -1,4 +1,4 @@
-### Hi there 👋, Olimjon Akhmadjonov
+### Olimjon Akhmadjonov
 #### Fullstack PHP Developer 
 ![Fullstack Developer ](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg)
 
