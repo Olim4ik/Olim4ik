@@ -2,7 +2,9 @@
 #### Fullstack PHP Developer 
 ![Fullstack Developer ](https://user-images.githubusercontent.com/66705822/100891556-211aa600-3498-11eb-84d7-7e9d43c8331c.jpg)
 
-I do content on Fullstack Development. I really enjoy learning languages and frameworks like YII2 and Laravel, as well as working in WordPress.I also enjoy working on JS frameworks and JS in general. 
+Intro: I am kinda fullstack PHP dev. Here I do some content on PHP and it's frameworks. Also I made some content on JS DOM. 
+Plans: I am gonna improve my skills and show nice content. 
+Outro: Follow me :D
 
 ### Skills and Experience
 * 🐘 PHP / YII2
